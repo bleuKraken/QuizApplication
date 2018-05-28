@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">QuizApplication</string>
+
+    <string name="title"> Android Development Quiz for Beginners </string>
+
+    <string name="quiz_description"> This quiz covers some of the basic information that every Android Developer and GWG Udacity student should be familar with! </string>
+
+    <string name="scroll_to_continue"> Please scroll down to continue. </string>
+
+    <string name="enter_name_below"> Please enter your name below </string>
+
+    <string name="question_1"> Q1: Which is an object-oriented programming language and a platform originated by Sun Microsystems. </string>
+
+    <string name="question_2"> Q2: A pane in the Android Studio project window that displays the structure of the emulator layout is the ___ </string>
+
+    <string name="question_3"> Q3: An event handler will do which of the following? </string>
+
+    <string name="question_4"> Q4:Which of the following XML options are correct? Check all that apply. </string>
+
+    <string name="question_5"> Q5: What does dp stand for? </string>
+
+    <string name="question_6"> Q6: Pseudocode is: Check all that apply.  </string>
+
+    <string name="question_7"> Q7: What is a Relative Layout? </string>
+
+    <string name="question_8"> Q8: T/F Pascal case is text that begins with an uppercase letter, and uses an uppercase letter to start each new word after. </string>
+
+    <string name="question_9"> Q9: A "View" is anything on the screen that we can see and/or interact with such as TextViews, Buttons, ImageViews, and so on. </string>
+
+    <string name="question_10"> Q10: How many bits are in a byte? </string>
+
+    <string name="no_answer"> Answer not here </string>
+
+    <string name="submit_instructions"> Ready to submit? Double check your answers, then click Submit Answers below. </string>
+
+</resources>
